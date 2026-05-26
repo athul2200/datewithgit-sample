@@ -1,1 +1,1 @@
-// Studying Basic git Commands
+# Studying Basic git Commands
